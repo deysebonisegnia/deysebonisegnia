@@ -1,5 +1,6 @@
- Bem vindo(a)
- Eu sou Deyse uma mulher de 38 anos, estou cursando para desenvolvimento web 
+                    Bem vindo(a)
+ 
+ Eu sou Deyse, uma mulher de 38 anos, estou cursando para desenvolvimento web 
  
  O que estou aprendendo HTML,CSS,JAVA SCRIPT.
  
