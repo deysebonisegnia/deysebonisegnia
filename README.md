@@ -1,12 +1,13 @@
-                    Bem vindo(a)
+
+   SEJA BEM-VINDO(A)!
  
- Eu sou Deyse, uma mulher de 38 anos, estou cursando para desenvolvimento web 
+  Eu sou Deyse, uma mulher de 38 anos, estou cursando para desenvolvimento web.
  
- O que estou aprendendo HTML,CSS,JAVA SCRIPT.
+  O que estou aprendendo HTML,CSS,JAVA SCRIPT.
  
-Se quiser me conhecer melhor abaixo estão minhas redes sociais.
+  Se quiser me conhecer melhor abaixo estão minhas redes sociais.
  
- 
+         
 
  
  <a href="https://www.linkedin.com/in/deyse-bonisegnia-995486171/">Linkedin</a>
