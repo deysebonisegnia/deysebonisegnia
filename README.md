@@ -5,9 +5,9 @@
  
   O que estou aprendendo:
   
-  HTML
+  HTML5
   
-  CSS
+  CSS3
   
   JAVA SCRIPT.
  
