@@ -1,9 +1,15 @@
 
-   SEJA BEM-VINDO(A)!
+  ##                   Seja bem-vindo(a)!
  
   Eu sou Deyse, uma mulher de 38 anos, estou cursando para desenvolvimento web.
  
-  O que estou aprendendo HTML,CSS,JAVA SCRIPT.
+  O que estou aprendendo:
+  
+  HTML
+  
+  CSS
+  
+  JAVA SCRIPT.
  
   Se quiser me conhecer melhor abaixo estão minhas redes sociais.
  
