@@ -2,7 +2,7 @@
 
 
              
-    ## 📊 Algumas estatísticas:
+    ##  Algumas estatísticas:
 <div align="center">
   <a href="https://github.com/deysebonisegnia">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deysebonisegnia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -11,7 +11,7 @@
   
 
   
-## 📖 Estudando atualmente:
+##  Estudando atualmente:
  <div style="display: inline_block"><br>
   <img align="center" alt="Deyse-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deyse-css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
