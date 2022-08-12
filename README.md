@@ -7,7 +7,8 @@ Aluna da **Digital House** aprendendo
 3.*Java script*
 4.*Java*
 
-##Algumas estatísticas:
+
+## Algumas estatísticas:
 <div align="center">
   <a href="https://github.com/deysebonisegnia">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deysebonisegnia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
