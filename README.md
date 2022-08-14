@@ -2,10 +2,7 @@
 
 Aluna da **Digital House** aprendendo
 
-1.*Html*  
-2.*Css*
-3.*Java script*
-4.*Java*
+*Html*  *Css* *Java script* *Java*
 
 
 ## Algumas estatísticas:
@@ -23,7 +20,9 @@ Aluna da **Digital House** aprendendo
   <img  src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" align="center" alt="Deyse-Java" height="70" width="80>
 </div>
 
-## 🗨️ Meus contatos:
+
+## Meus contatos:
+
 <div>
   <a href = "dbonisegniabf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deysebonisegnia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
