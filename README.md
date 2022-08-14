@@ -17,7 +17,7 @@ Aluna da **Digital House** aprendendo
   <img align="center" alt="Deyse-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deyse-css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="Deyse-JS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <img  src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" align="center" alt="Deyse-Java" height="70" width="80>
+  <img  src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" align="center" alt="Deyse-Java" height="70" width="80">
 </div>
 
 
