@@ -3,7 +3,8 @@
 Aluna da **Digital House** aprendendo
 
 *Html*  *Css* *Java script* *Java*
-Cursando Análise e desenvolvimento de sistemas na Estácio de sá curso tecnólogo de 2 anos e meio para melhor aprimorar os conhecimentos em tecnologia e expecializar na aréa
+
+Cursando Análise e desenvolvimento de sistemas na Estácio de sá curso tecnólogo de 2 anos e meio para melhor aprimorar os conhecimentos em tecnologia e expecializar na área.
 
 
 ## Algumas estatísticas:
@@ -19,6 +20,7 @@ Cursando Análise e desenvolvimento de sistemas na Estácio de sá curso tecnól
   <img align="center" alt="Deyse-css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="Deyse-JS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img  src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" align="center" alt="Deyse-Java" height="70" width="80">
+ <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Deyse-Java" height="70" width="80">
 </div>
 
 
