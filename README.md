@@ -4,7 +4,7 @@ Aluna da **Digital House** aprendendo
 
 *Html*  *Css* *Java script* *Java* *Python*
 
-Cursando Análise e desenvolvimento de sistemas na Estácio de sá curso tecnólogo de 2 anos e meio para melhor aprimorar os conhecimentos em tecnologia e expecializar na área.
+Cursando Análise e desenvolvimento de sistemas na Estácio de sá, curso tecnólogo de 2 anos e meio para melhor aprimorar os conhecimentos em tecnologia e expecializar na área.
 
 
 ## Algumas estatísticas:
