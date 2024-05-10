@@ -1,10 +1,7 @@
 <h1 align="left">Oi,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou Deyse</h1>
 
-Aluna da **Digital House** aprendendo
 
-*Html*  *Css* *Java script* *Java* *Python*
-
-Cursando Análise e desenvolvimento de sistemas na Estácio de sá, curso tecnólogo de 2 anos e meio para melhor aprimorar os conhecimentos em tecnologia e expecializar na área.
+ Curso tecnólogo de Análise e desenvolvimento de sistemas na Estácio de sá para melhor aprimorar os conhecimentos em tecnologia e expecializar na área.
 
 
 ## Algumas estatísticas:
